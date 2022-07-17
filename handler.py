@@ -5,7 +5,7 @@ import json
 def hello(event, context):
 
     body = dict(
-        name="Hemanth",
+        name="Hemanth P",
         DOB="5th April 1998",
         current_time=datetime.datetime.now().strftime("%c"),
     )
